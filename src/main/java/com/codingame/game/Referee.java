@@ -6,7 +6,6 @@ import java.util.stream.Stream;
 import com.codingame.gameengine.core.AbstractPlayer.TimeoutException;
 import com.codingame.gameengine.core.AbstractReferee;
 import com.codingame.gameengine.core.MultiplayerGameManager;
-import com.codingame.gameengine.module.endscreen.EndScreenModule;
 import com.codingame.view.ViewModule;
 import com.google.inject.Inject;
 import com.google.inject.Singleton;
